@@ -1,16 +1,14 @@
-### Hi there 👋
+# Daniil Nedaiborsch
 
-<!--
-**TheReverberation/TheReverberation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm BS in Information Systems and Technologies, ETU "LETI", Saint Petersburg,
+Russia.
 
-Here are some ideas to get you started:
+I'm programming on C/C++, Python, Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Love fast programm and math.
+
+I'm looking for a job as C/C++ Junior Developer.
+
+My [CV repository](https://github.com/TheReverberation/TheReverberation/), [telegram](https://t.me/nedaiborschd).
+
+Good luck!
