@@ -7,8 +7,6 @@ I'm programming on C/C++, Python, Java.
 
 Love fast programm and math.
 
-I'm looking for a job as C/C++ Junior Developer.
-
 My [CV](cv_eng.pdf), [telegram](https://t.me/nedaiborschd).
 
 Good luck!
